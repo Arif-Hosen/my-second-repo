@@ -4,5 +4,11 @@ h1{
     border: 2px solid royalblue;
 }
 p{
-    font-size: 20px;
+    font-size: 25px;
+}
+img{
+    border: 5px dashed cadetblue;
+    border-radius: 60px;
+    width: 800px;
+    margin: 50px 20%;
 }
